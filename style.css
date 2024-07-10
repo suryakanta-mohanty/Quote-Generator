@@ -114,3 +114,9 @@ body{
 .btn-section .btn:active{
   opacity: 80%;
 }
+
+@media screen and (max-width: 600px) {
+  .container{
+    width: 350px;
+  }
+}
